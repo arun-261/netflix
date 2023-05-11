@@ -1,0 +1,15 @@
+.banner{
+    height: 500px;
+    object-fit: contain;
+}
+.banner_content{
+    padding-top: 220px;
+}
+.banner_title{
+    font-size: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.banner_desc{
+    font-size: 1.2rem;
+    width: 50%;
+}

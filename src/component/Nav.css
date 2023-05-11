@@ -1,0 +1,11 @@
+.logo{
+    width: 100px;
+}
+.navbar{
+   position: fixed;
+   width: 100%;
+   padding: 10px;
+}
+.navbar_black{
+    background-color: black;
+}
